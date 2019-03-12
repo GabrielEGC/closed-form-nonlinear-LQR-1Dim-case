@@ -1,0 +1,2 @@
+# closed-form-nonlinear-LQR-1Dim-case
+I've been always fascinated by the closed form solutions and analytical expression to every problem in maths and engineering. Particularly, I would like to get the closed form solution of LQR for nonlinear systems, but this is possible only in particular cases. Fortunately, in One dimension actually there is a closed form solution. In order to derivate it we can use the adjoint equation and solve it directly. We verify it by using the Hamilton-Jacobi-Bellman Equation.
